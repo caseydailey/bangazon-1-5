@@ -1,6 +1,6 @@
 import random
 
-class Employee(object):
+class Employee(object):   n 1	11		`8  
 
 	def __init__(self, first_name, last_name):
 		self.first_name = first_name
